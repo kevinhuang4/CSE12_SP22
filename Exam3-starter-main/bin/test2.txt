@@ -1,0 +1,11 @@
+Yousif,A,100
+Maysa,A,95
+Cem,A,90
+Fatimah,A,85
+Taybah,A,80
+Simra,A,75
+Maegan,A,70
+Milana,A,65
+Avleen,A,60
+Breanna,A,55
+Malone,A,50
